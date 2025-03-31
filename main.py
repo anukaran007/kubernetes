@@ -4,3 +4,4 @@ def main():
 DeprecationWarning
 
 def
+return
